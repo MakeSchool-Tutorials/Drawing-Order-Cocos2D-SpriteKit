@@ -1,6 +1,7 @@
 ---
 title: Control the Drawing Order in Cocos2d and Sprite Kit neatly
 slug: control-drawing-order-cocos2d-spritekit
+gamernews_id: 368
 ---            
 
 In both Cocos2d and Sprite Kit the drawing order of your Nodes is primarily determined by the hierarchy of your scenes - children are drawn on top of their parents. In many games you will need to change this drawing order manually, for example to force UI elements to be drawn on top of all other Nodes.
