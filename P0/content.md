@@ -50,4 +50,4 @@ Once you place this header file in your project you can include it in any Node w
 
 Happy coding!
 
-benji@makegameswith.us
+benji@makeschool.com
