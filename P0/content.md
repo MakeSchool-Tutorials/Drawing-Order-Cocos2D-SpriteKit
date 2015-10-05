@@ -1,5 +1,5 @@
 ---
-title: Control the Drawing Order in Cocos2d and Sprite Kit neatly
+title: Control the Drawing Order in Cocos2d and Sprite Kit
 slug: control-drawing-order-cocos2d-spritekit
 gamernews_id: 368
 ---            
